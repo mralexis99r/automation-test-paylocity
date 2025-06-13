@@ -21,6 +21,10 @@ The system returns the error:
 > "The Password field is required."  
 even though the password field was properly filled.
 
+### 📸 Evidence:
+![Login Error](https://github.com/mralexis99r/automation-test-paylocity/raw/main/images/login-error.png)
+
+
 ### 🔎 Additional Notes:
 - Tested on the latest version of Chrome.
 - Tried both typing and pasting the password.
